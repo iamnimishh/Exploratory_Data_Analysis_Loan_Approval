@@ -64,9 +64,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn xgboost
 
 4. Feel free to modify the notebook or add more analyses as per your requirements.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-Feel free to customize the readme as per your actual analysis and project details. Include relevant sections such as Installation, Usage, Contributing, and Acknowledgments if applicable. The goal is to provide clear instructions for running the code and understanding the project.
